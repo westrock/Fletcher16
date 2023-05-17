@@ -1,0 +1,5 @@
+Fletcher16	KEYWORD1
+GetChecksum	KEYWORD2
+GetCheckBytes	KEYWORD2
+GetAndAppendCheckBytes	KEYWORD2
+CheckBytes	KEYWORD2
